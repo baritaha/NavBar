@@ -82,6 +82,9 @@ header .logo h2::first-letter {
     color: black;
     font-size: 30px;
 }
+header a{
+    color:#99c0ee !important;
+}
 header .logo h2 {
     background: linear-gradient(135deg, rgb(0, 89, 255), rgb(112, 155, 236));
     border-radius: 5px;
