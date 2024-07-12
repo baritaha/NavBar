@@ -115,6 +115,9 @@ nav ul li a {
 
     
 }
+nav ul li a{
+     color:#99c0ee;
+}
 nav ul .active,
 nav ul li a:hover{
   color: white;
